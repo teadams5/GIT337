@@ -1,5 +1,8 @@
 h1 {
     color: blue;
+    padding: 10px;
+    text-align: center;
+    max-width: 200px;
     border: solid red;
     border-radius: 15px;
 }
